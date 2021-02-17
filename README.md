@@ -1,7 +1,7 @@
 titanic
 ==============================
 
-Hanya sekedar project sederhana yang di-reorganized menggunakan Cookiecutter.
+Hanya sekedar project sederhana yang saya buat 1 tahun lalu. Beberapa bagiannya direfactor dan struktur projectnya direorganized menggunakan Cookiecutter.
 
 Project details:
 - Goals : Membuat model untuk melakukan prediksi terhadap awak kapal yang survived/not-survived
