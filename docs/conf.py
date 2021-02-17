@@ -231,7 +231,7 @@ man_pages = [
 texinfo_documents = [
     ('index', 'titanic', u'titanic Documentation',
      u"ariandy", 'titanic',
-     'Akan ditulis lebih lanjut...', 'Miscellaneous'),
+     'Titanic basic model & re-organized by Cookiecutter', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

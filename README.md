@@ -1,7 +1,12 @@
 titanic
 ==============================
 
-Akan ditulis lebih lanjut...
+Hanya sekedar project sederhana yang di-reorganized menggunakan Cookiecutter.
+
+Project details:
+- Goals : Membuat ML untuk melakukan prediksi terhadap awak kapal yang survived/not-survived
+- Problem type : Classification
+- Algoritma : KNN
 
 Project Organization
 ------------
